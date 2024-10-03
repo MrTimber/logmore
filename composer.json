@@ -1,6 +1,7 @@
 {
 	"name" : "mrtimber/logmore",
 	"description" : "Minimalist logging tool providing wrappers for openlog, closelog and syslog",
+	"version": "1.0.0",
 	"license" : "CC-BY-3.0",
 	"keywords" : ["log","logging"],
 	"homepage" : "https://www.github.com/mrtimber/logmore",
